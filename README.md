@@ -1,6 +1,9 @@
 # CovertAI:
 This project uses machine learning tools to decode the underlying features of covert attention in V1
 
+# Project Managment:
+https://mcoleshs-team-company.monday.com/boards/1763230983
+
 # Documentation:
 https://docs.google.com/document/d/13DNcXmfONSPjoUV9ZYw7eSNJyDGGx990l9eN66na4XA/edit?tab=t.0
 
