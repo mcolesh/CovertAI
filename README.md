@@ -9,7 +9,12 @@ https://drive.google.com/drive/folders/18ma3aN3BCyFvR0IqbFe1bJqnvlaJPoaH
 
 # Documentation:
 https://docs.google.com/document/d/13DNcXmfONSPjoUV9ZYw7eSNJyDGGx990l9eN66na4XA/edit?tab=t.0
-file:///C:/Users/shake/AppData/Local/Microsoft/Windows/INetCache/IE/MGI0Q6U3/hamutals%20instructions[1].pdf
+
+![image](https://github.com/user-attachments/assets/33d1cf52-9a07-4328-8244-0946cb99b9d2)
+![image](https://github.com/user-attachments/assets/5a1fb906-3688-4135-bc8b-d583a149c448)
+![image](https://github.com/user-attachments/assets/7b5dc0e1-88cf-42db-877c-d7baee3a9ec8)
+![image](https://github.com/user-attachments/assets/70dc1a26-7a03-4419-a2ad-06ad7cba2602)
+
 
 # List of usefull commands:
 all command should run under project root/working-directory
