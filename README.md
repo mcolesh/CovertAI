@@ -9,6 +9,7 @@ https://drive.google.com/drive/folders/18ma3aN3BCyFvR0IqbFe1bJqnvlaJPoaH
 
 # Documentation:
 https://docs.google.com/document/d/13DNcXmfONSPjoUV9ZYw7eSNJyDGGx990l9eN66na4XA/edit?tab=t.0
+file:///C:/Users/shake/AppData/Local/Microsoft/Windows/INetCache/IE/MGI0Q6U3/hamutals%20instructions[1].pdf
 
 # List of usefull commands:
 all command should run under project root/working-directory
